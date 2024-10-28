@@ -11,8 +11,8 @@ sections:
       more.](https://docs.netlify.com/visual-editor/local-development/)
     actions:
       - type: Button
-        label: Start Building
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
+        label: Let's Go!
+        url: 'https://fedmich.com/search/'
         size: large
         variant: contained
         color: primary
